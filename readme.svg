@@ -2,122 +2,120 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+    .body {
+        /* background-color: red; */
+        margin-top: -30px;
+        margin-left: -30px;
+        width: calc(100% + 60px);
+        padding: 30px;
+    }
 
-.body {
-    /* background-color: red; */
-    margin-top: -30px;
-    margin-left: -30px;
-    width: calc(100% + 60px);
-    padding: 30px;
-}
+    /* .center {
+        display: flex;
+        justify-content: center;
+    } */
 
-/* .center {
-    display: flex;
-    justify-content: center;
-} */
+    section {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+        border-top: solid 1px
+    }
 
-section {
-    padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
-    border-top: solid 1px
-}
+    section + section {
+        margin-top: 2.5rem;
+    }
 
-section + section {
-    margin-top: 2.5rem;
-}
-
-ul {
-    display: flex;
-    list-style: none;
-    gap: 2rem;
-    align-items: center;
-    margin: 0 0 3rem 0;
-    padding: 0;
-}
+    ul {
+        display: flex;
+        list-style: none;
+        gap: 2rem;
+        align-items: center;
+        margin: 0 0 3rem 0;
+        padding: 0;
+    }
 
 
-ul li svg {
-    width: 50px;
-    fill: #000;
-    transition: all 0.3s ease-in-out;
-}
+    ul li svg {
+        width: 50px;
+        fill: #000;
+        transition: all 0.3s ease-in-out;
+    }
 
-*[data-dark-theme='dark'] ul li svg {
-    fill: #fff
-}
+    *[data-dark-theme='dark'] ul li svg {
+        fill: #fff
+    }
 
-ul li.html5:hover svg {
-    fill: #e34c26;
-}
+    ul li.html5:hover svg {
+        fill: #e34c26;
+    }
 
-ul li.css3:hover svg {
-    fill: #264de4;
-}
+    ul li.css3:hover svg {
+        fill: #264de4;
+    }
 
-ul li.sass:hover svg {
-    fill: #cc6699;
-}
+    ul li.sass:hover svg {
+        fill: #cc6699;
+    }
 
-ul li.js:hover svg {
-    fill: #f0db4f;
-}
+    ul li.js:hover svg {
+        fill: #f0db4f;
+    }
 
-ul li.react:hover svg {
-    fill: #04d8f9;
-}
+    ul li.react:hover svg {
+        fill: #04d8f9;
+    }
 
-ul li.jQuery:hover svg {
-    fill: #0769ad;
-}
+    ul li.jQuery:hover svg {
+        fill: #0769ad;
+    }
 
-ul li.gulp:hover svg {
-    fill: #d34a47;
-}
+    ul li.gulp:hover svg {
+        fill: #d34a47;
+    }
 
-ul li.cli:hover svg {
-    fill: #9400D3;
-}
+    ul li.cli:hover svg {
+        fill: #9400D3;
+    }
 
-ul li.github:hover svg {
-    fill: #4078c0;
-}
+    ul li.github:hover svg {
+        fill: #4078c0;
+    }
 
-ul li.vscode:hover svg {
-    fill: #0098FF;
-}
+    ul li.vscode:hover svg {
+        fill: #0098FF;
+    }
 
-ul li.sketch:hover svg {
-    fill: #f9a52c;
-}
+    ul li.sketch:hover svg {
+        fill: #f9a52c;
+    }
 
-ul li.figma:hover svg {
-    fill: #A259FF;
-}
+    ul li.figma:hover svg {
+        fill: #A259FF;
+    }
 
-ul li.photoshop:hover svg {
-    fill: #18152E;
-}
+    ul li.photoshop:hover svg {
+        fill: #18152E;
+    }
 
-h2 {
-    font-size: 2rem;
-    margin-bottom: 2rem;
-}
+    h2 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
 
-.grid {
-    display: grid;
-    gap: 3rem;
-    grid-template-columns: repeat(2, 1fr);
-    place-items: center;
-}
+    .grid {
+        display: grid;
+        gap: 3rem;
+        grid-template-columns: repeat(2, 1fr);
+        place-items: center;
+    }
 
-.grid br {
-    display: none;
-}
+    .grid br {
+        display: none;
+    }
 
-.git-stats img {
-    width: 100%;
-}
-
+    .git-stats img {
+        width: 100%;
+    }
 </style>
 
 <div class='body' data-dark-theme='dark'>
