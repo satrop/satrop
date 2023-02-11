@@ -8,11 +8,7 @@
 
 I'm a front-end dev from 'sunny' <img alt="England Flag" src="./england.svg" width="20"> that now resides in <img alt="America Flag" src="./usa.svg" width="20">. Whilst your here why not take a look at my [portfolio site](https://satrop.github.io/my-portfolio/)
 
-<br>
-
 ---
-
-<br>
 
 ## Languages I Use
 
@@ -26,11 +22,7 @@ I'm a front-end dev from 'sunny' <img alt="England Flag" src="./england.svg" wid
   <img height="30" alt="js" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=222" />
 </p>
 
-<br>
-
 ---
-
-<br>
 
 ## Tools I Love
 
@@ -44,17 +36,13 @@ I'm a front-end dev from 'sunny' <img alt="England Flag" src="./england.svg" wid
   <img height="30" alt="sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=222" />
 </p>
 
-<br>
-
 ---
 
-<br>
 
 ## Some Stats
 
-<br>
 
-<p align="center" style="display: flex;">
+<p align="center">
   <picture>
       <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=satrop&layout=compact&theme=dark&hide=shell"
