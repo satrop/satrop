@@ -34,6 +34,7 @@ I'm a front-end dev from 'sunny' <img alt="England Flag" src="./england.svg" wid
   <img height="30" alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff" />
   <img height="30" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff" />
   <img height="30" alt="sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=222" />
+  <img height="30" alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff" />
 </p>
 
 ---
